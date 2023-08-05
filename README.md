@@ -8,7 +8,8 @@ Table aliasing is not used in these example solutions, but it is perfectly accep
 SELECT countries.name, countries.surface_area, countries.population
 FROM countries
 WHERE countries.surface_area < 501 AND countries.population > 100000;
-<img width="737" alt="Screenshot 2023-08-03 at 3 45 53 PM" src="https://github.com/hdtran103/D.E-SQL-Queries/assets/127581702/8bf1906a-174b-4a11-968f-156f38ced8dc">
+
+![Screenshot 2023-08-05 at 6 34 52 PM](https://github.com/hdtran103/D.E-SQL-Queries/assets/127581702/f55a0157-34de-4adf-a0d5-27ed0ec09be8)
 
 
 2. What query would you run to get countries with only Constitutional Monarchy with a capital greater than 200 and a life expectancy greater than 75 years?  Include the country name, form of government, and capital in your results.
